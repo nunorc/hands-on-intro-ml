@@ -11,5 +11,10 @@ The companion notebooks available from this repository are:
 * [Part-1-Intro-Python](./notebooks/Part-1-Intro-Python.ipynb) -- quick and
   brief introduction to the Python programming language and some initial concepts;
 * [Part-2-Intro-ML](./notebooks/Part-2-Intro-ML.ipynb) -- introduction to
-  Machine Learning concepts with some examples in Python -- coming soon.
+  Machine Learning concepts with some examples in Python.
+
+### Acknowledgments
+
+Thank you to Stefanos Digenis (@sdigenis) and Hanna Siebert for their contribution in creating
+the notebooks.
 
